@@ -43,3 +43,7 @@ div.parte1-derecha image{
     max-height: 100%;
     object-fit: contain;
 }
+center.imagen {
+    position: relative;
+    top: 10em;
+}
