@@ -26,7 +26,7 @@ div.cuadro{
     top: 9em;
     left: 5em;
     background: white;
-    border: 3px solid #555;
+    border: 1px solid #555;
    
 }
 ul.cuadro-1 li{
@@ -46,4 +46,22 @@ div.parte1-derecha image{
 center.imagen {
     position: relative;
     top: 10em;
+}
+div.cuadro3{
+    width:700px;
+    height: 100px; 
+    margin:10px 50px;
+    position: relative;
+    top: 10em;
+    left: 10em;
+}
+div.parte3-derecha {
+    width:350px;
+    margin:10px 50px;
+    padding:20px;
+    font-size:italic;
+    color:#000;      
+    position: relative;
+    top: 30em;
+    left: 30em;
 }
