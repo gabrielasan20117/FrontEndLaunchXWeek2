@@ -26,6 +26,7 @@ div.cuadro{
     top: 9em;
     left: 5em;
     background: white;
+    border: 3px solid #555;
    
 }
 ul.cuadro-1 li{
@@ -33,5 +34,12 @@ ul.cuadro-1 li{
     padding-right: 5em;
 }
 div.parte1-derecha {
-    float: right;
+    position: relative;
+    left: 45em;
+    background-image: url("3.png");
+}
+div.parte1-derecha image{
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: contain;
 }
