@@ -1,0 +1,37 @@
+div.menu {
+    float:right;
+}
+div.parte1-izquierda {  
+    width:350px;
+    margin:10px 50px;
+    padding:20px;
+    font-size:italic;
+    color:#000;      
+    position: relative;
+    top: 8em;
+    left: 5em;
+
+}
+div.sub {
+    position: relative;
+    top: 8em;
+    left: 9em;
+}
+div.cuadro{
+    list-style: none;
+    width:800px;
+    height: 100px; 
+    margin:10px 50px;
+    position: relative;
+    top: 9em;
+    left: 5em;
+    background: white;
+   
+}
+ul.cuadro-1 li{
+    display: inline;
+    padding-right: 5em;
+}
+div.parte1-derecha {
+    float: right;
+}
